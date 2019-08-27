@@ -1,2 +1,2 @@
-# smartcontract
+# bitcoin protocol
 Consensus mechanism
