@@ -1,2 +1,2 @@
 # bitcoin protocol
-Consensus mechanism
+Consensus mechanisms
